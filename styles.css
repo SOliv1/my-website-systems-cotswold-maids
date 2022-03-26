@@ -1,0 +1,147 @@
+body {
+  font-family: 'Libre-Miriam', 'Poppins', sans-serif;
+  margin: 0 10%;
+}
+
+/* hebrew */
+@font-face {
+  font-family: 'Miriam Libre';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/miriamlibre/v11/DdTh798HsHwubBAqfkcBTL_fZZP-fes.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Miriam Libre';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/miriamlibre/v11/DdTh798HsHwubBAqfkcBTL_faZP-fes.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Miriam Libre';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/miriamlibre/v11/DdTh798HsHwubBAqfkcBTL_fZ5P-.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+.container {
+  border: 2px solid #a2a2a6;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.color-container {
+  width: 100%;
+}
+
+.color-panel {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.dove-grey {
+  background-color: #b2b9ba;
+  color: #fff;
+}
+
+.slate {
+  background-color: #333333;
+  color: #fff;
+}
+
+.mint-green {
+  background-color: #4fe0b0;
+}
+
+.beige {
+  background-color: #efd9ca;
+  color: #fff;
+}
+.baby-blue {
+    background-color: #ccffff;
+    color: #000;
+}
+
+.denim {
+    background-color: #809fff;
+    color: #fff;
+}
+
+.cyan {
+    background-color: #00FFFF;
+    color: #fff;
+
+}
+
+.baby-pink {
+    background-color: #ffe6ff;
+    color: #000;
+
+}
+
+.white {
+    background-color: #ffff;
+    color: #000;
+
+}
+
+.font-panel {
+  width: 45%;
+  display: inline-block;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.nunito-sans {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.source-code-pro {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.poppins {
+  font-family: 'Poppins', sans-serif;
+}
+
+.text-panel h1 {
+  font-weight: 700;
+  font-size: 32px;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.text-panel h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.text-panel p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Poppins', sans-serif;
+}
