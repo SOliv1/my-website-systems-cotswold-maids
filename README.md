@@ -1,3 +1,5 @@
+[![Jekyll site CI](https://github.com/SOliv1/my-website-systems-cotswold-maids/actions/workflows/jekyll.yml/badge.svg)](https://github.com/SOliv1/my-website-systems-cotswold-maids/actions/workflows/jekyll.yml)
+
 ## Code Academy Project Design Systems 
 ### CSS improvements FullStack Skill Path
 
