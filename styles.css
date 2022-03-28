@@ -94,6 +94,25 @@ body {
 
 }
 
+.white-smoke {
+    background-color: rgba(0, 255, 0, 0.1);
+    color: #000;
+
+}
+
+.denim-midnight {
+    background-color: hsl(225, 100%, 25%);
+    color: #fff;
+
+}
+
+.crushed-rasberry {
+    background-color: hsla(325, 50%, 50%, 0.6);
+    color: #000;
+
+}
+
+
 .font-panel {
   width: 45%;
   display: inline-block;
