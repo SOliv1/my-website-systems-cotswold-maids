@@ -1,5 +1,5 @@
 body {
-  font-family: 'Libre-Miriam', 'Poppins', sans-serif;
+  font-family: 'Raleway','Libre-Miriam', 'Poppins', sans-serif;
   margin: 0 10%;
 }
 
@@ -139,8 +139,8 @@ body {
   font-family: 'Nunito Sans', sans-serif;
 }
 
-.source-code-pro {
-  font-family: 'Source Code Pro', monospace;
+.Raleway {
+  font-family: 'Raleway', monospace;
 }
 
 .poppins {
@@ -150,7 +150,7 @@ body {
 .text-panel h1 {
   font-weight: 700;
   font-size: 32px;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Libre Miriam', sans-serif;
 }
 
 .text-panel h2 {
