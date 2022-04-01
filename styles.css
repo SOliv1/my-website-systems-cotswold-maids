@@ -135,12 +135,8 @@ body {
   font-weight: 700;
 }
 
-.nunito-sans {
-  font-family: 'Nunito Sans', sans-serif;
-}
-
 .Raleway {
-  font-family: 'Raleway', monospace;
+  font-family: 'Raleway', sans-serif;
 }
 
 .poppins {
