@@ -256,3 +256,10 @@ footer {
   z-index: 1;
   bottom: 0;
 }
+
+/* VIDEO LOCATION */
+
+.col.display-center {
+  display: flex;
+  justify-content: center;
+}
