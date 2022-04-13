@@ -241,6 +241,10 @@ html, body, .gallery {
   background-color:#80808038;
 }
 
+.container.background--cotswold-stone {
+  background-color:#80808038;
+}
+
 footer p {
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
