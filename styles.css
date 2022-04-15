@@ -37,6 +37,8 @@ a.dove-grey.active {
   text-decoration: none;
 }
 
+
+
 a:hover {
   color: #4fe0b0;
   background-color: transparent;
@@ -61,6 +63,7 @@ a:hover {
   src: url(https://fonts.gstatic.com/s/miriamlibre/v11/DdTh798HsHwubBAqfkcBTL_faZP-fes.woff2) format('woff2');
   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
+
 /* latin */
 @font-face {
   font-family: 'Miriam Libre';
@@ -163,7 +166,7 @@ background-color: #efd9ca;
 
 .crushed-rasberry {
     background-color: hsla(325, 50%, 50%, 0.6);
-    
+
 color: #000;
 }
 
